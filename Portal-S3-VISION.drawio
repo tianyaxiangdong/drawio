@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:06:18.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="djHW_vMFqAYH-jCo-N7Q" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T08:48:32.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="w_HN4AKSuX-Yxcp83H_A" version="13.6.9" type="github">
   <diagram id="5kCHEIIx-SN151SwvPzQ" name="Page-1">
     <mxGraphModel dx="2893" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="PKJmyre9kMcEaRqX343v-11" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;align=left;" parent="1" vertex="1">
           <mxGeometry x="-720" y="500" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKJmyre9kMcEaRqX343v-12" value="&lt;font color=&quot;#000000&quot;&gt;Portal&amp;nbsp;Server&lt;/font&gt;&lt;br&gt;EC2" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="PKJmyre9kMcEaRqX343v-11" vertex="1">
+        <mxCell id="PKJmyre9kMcEaRqX343v-12" value="&lt;font color=&quot;#000000&quot;&gt;B2B Server&lt;/font&gt;&lt;br&gt;EC2" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="PKJmyre9kMcEaRqX343v-11" vertex="1">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
@@ -104,7 +104,7 @@
         <mxCell id="VEAzBk5qKk5hibjYsEHk-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#0000FF;" edge="1" parent="PKJmyre9kMcEaRqX343v-45" source="PKJmyre9kMcEaRqX343v-49" target="VEAzBk5qKk5hibjYsEHk-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VEAzBk5qKk5hibjYsEHk-15" value="get product infor&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="VEAzBk5qKk5hibjYsEHk-14">
+        <mxCell id="VEAzBk5qKk5hibjYsEHk-15" value="get product info/sync image&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="VEAzBk5qKk5hibjYsEHk-14">
           <mxGeometry x="0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
