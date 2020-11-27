@@ -1,22 +1,11 @@
-<mxfile modified="2020-11-27T06:11:38.236Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="W_nyt3m0mom7fXq9tFJt" version="13.10.3" type="github">
+<mxfile modified="2020-11-27T06:13:03.480Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="azQXAHVcEY_6fwhNzIwh" version="13.10.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2692" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2692" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="711" value="Customer Lists Logic" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
-          <mxGeometry x="585" y="-90" width="360" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="2" value="Architecture: Lifecycle &amp;gt; Fair4.0&amp;nbsp;" style="strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=20;fontColor=#ffffff;html=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="1000" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="699" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="-20" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="700" value="&lt;font color=&quot;#000000&quot;&gt;Relevant Users&lt;/font&gt;&lt;br&gt;Cloud Storage" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="699" vertex="1">
-          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
-            <mxPoint x="5" y="-19.5" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2LdwyGo6ntWqwGKQ_-Yb-719" value="Architecture: User Zone&amp;nbsp;" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=20;fontColor=#ffffff;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="40" width="370" height="40" as="geometry" />
@@ -122,9 +111,6 @@
         </mxCell>
         <mxCell id="2LdwyGo6ntWqwGKQ_-Yb-812" value="Oracle&lt;br&gt;[windows]" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.oracle_db_instance;" vertex="1" parent="1">
           <mxGeometry x="725" y="277.5" width="75" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="2LdwyGo6ntWqwGKQ_-Yb-813" value="Customer Lists Logic" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
-          <mxGeometry x="595" y="-80" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2LdwyGo6ntWqwGKQ_-Yb-815" value="Oracle Back" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000033;strokeWidth=2;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="138" width="70" height="62" as="geometry" />
