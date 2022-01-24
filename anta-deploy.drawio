@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-24T15:03:53.514Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="6jlDRbfg9dJq7i2FyxSe" version="15.1.1" type="github">
+<mxfile modified="2022-01-24T15:05:46.202Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="r5wRseSi4SHBEyn8e63q" version="15.1.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1957" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -140,16 +140,12 @@
         <mxCell id="BOxT3LTor6TBMMufEwT3-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.56;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.565;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;dashed=1;" edge="1" parent="1" source="BOxT3LTor6TBMMufEwT3-40" target="BOxT3LTor6TBMMufEwT3-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BOxT3LTor6TBMMufEwT3-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1A1A1A;" edge="1" parent="1" source="BOxT3LTor6TBMMufEwT3-40" target="BOxT3LTor6TBMMufEwT3-162">
+        <mxCell id="BOxT3LTor6TBMMufEwT3-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1A1A1A;" edge="1" parent="1" source="BOxT3LTor6TBMMufEwT3-40" target="BOxT3LTor6TBMMufEwT3-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="402" y="1238" />
+              <mxPoint x="270" y="1166" />
+              <mxPoint x="270" y="1166" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BOxT3LTor6TBMMufEwT3-167" value="DB_LINK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="BOxT3LTor6TBMMufEwT3-166">
-          <mxGeometry x="0.3277" y="2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOxT3LTor6TBMMufEwT3-40" value="Oracle11g/orcl&lt;br&gt;&amp;nbsp;(windows server2018+)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.primary_site;" vertex="1" parent="1">
@@ -311,7 +307,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BOxT3LTor6TBMMufEwT3-158" value="Oracle11g/orcl&lt;br&gt;&amp;nbsp;(windows server2018+)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.primary_site;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1181" width="54" height="60" as="geometry" />
+          <mxGeometry x="-342.12" y="1110" width="54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOxT3LTor6TBMMufEwT3-159" value="订单管理" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#00CC00;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="-395.43000000000006" y="1280" width="530" height="20" as="geometry" />
@@ -326,7 +322,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BOxT3LTor6TBMMufEwT3-162" value="scheam：main&lt;br&gt;(主数据：商品、用户)&lt;br&gt;(元数据)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-156.88000000000002" y="1213" width="132.21" height="50" as="geometry" />
+          <mxGeometry x="-156.88000000000002" y="1141" width="132.21" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BOxT3LTor6TBMMufEwT3-175" value="用户中心" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application" vertex="1" parent="1">
           <mxGeometry x="-276.0299999999999" y="540" width="73.52" height="50" as="geometry" />
@@ -464,7 +460,7 @@
           <mxGeometry x="-156.66999999999993" y="870" width="73.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BOxT3LTor6TBMMufEwT3-293" value="scheam：om&lt;br&gt;(订单相关)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-156.55" y="1076" width="132.21" height="50" as="geometry" />
+          <mxGeometry x="-156.88000000000002" y="1026" width="132.21" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
