@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T14:52:51.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="WTl8txA8nfHv7XavyFEx" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T14:53:09.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="nTswO3lADECHC08R-8bv" version="16.4.5" type="github">
   <diagram id="hieO9g39WpFTUk1VyaVL" name="Page-1">
     <mxGraphModel dx="2197" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
         <mxCell id="pbacP5-wRvRaZsXroCSK-219" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="490" y="220" width="640" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-220" value="&lt;font color=&quot;#1a1a1a&quot;&gt;Linux ： Node1 : 172.10.1.3（物理IP）&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-219">
+        <mxCell id="pbacP5-wRvRaZsXroCSK-220" value="&lt;font color=&quot;#1a1a1a&quot;&gt;Linux ： Node2 : 172.10.1.3（物理IP）&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-219">
           <mxGeometry width="640" height="25.60975609756097" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-221" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-219">
@@ -473,7 +473,7 @@
         <mxCell id="pbacP5-wRvRaZsXroCSK-238" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="490" y="620" width="640" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-239" value="&lt;font color=&quot;#1a1a1a&quot;&gt;Linux ： Node1 : 172.10.2.3（物理IP）&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-238">
+        <mxCell id="pbacP5-wRvRaZsXroCSK-239" value="&lt;font color=&quot;#1a1a1a&quot;&gt;Linux ： Node2 : 172.10.2.3（物理IP）&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-238">
           <mxGeometry width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-240" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-238">
