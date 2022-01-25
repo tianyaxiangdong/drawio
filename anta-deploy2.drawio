@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T14:43:02.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="5uYuLrbgswzYGZylZg45" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T14:50:20.909Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MSzusfRR4nEZpJnqCyMI" version="16.4.5" type="github">
   <diagram id="hieO9g39WpFTUk1VyaVL" name="Page-1">
-    <mxGraphModel dx="1643" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,9 +377,6 @@
         <mxCell id="pbacP5-wRvRaZsXroCSK-174" value="订货会前端" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-164">
           <mxGeometry x="320" y="79" width="70" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-175" value="订单管理前端" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-164">
-          <mxGeometry x="306" y="190" width="80" height="17" as="geometry" />
-        </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-176" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-164">
           <mxGeometry x="300" y="58" width="20" height="35" as="geometry" />
         </mxCell>
@@ -407,49 +404,84 @@
         <mxCell id="pbacP5-wRvRaZsXroCSK-181" value="商央前端" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-164">
           <mxGeometry x="320" y="102" width="60" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pbacP5-wRvRaZsXroCSK-164" source="pbacP5-wRvRaZsXroCSK-169" target="pbacP5-wRvRaZsXroCSK-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-183" value="/om(订单管理)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="pbacP5-wRvRaZsXroCSK-182">
-          <mxGeometry x="0.0123" y="-3" relative="1" as="geometry">
-            <mxPoint x="35" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-187" value="" style="group" vertex="1" connectable="0" parent="pbacP5-wRvRaZsXroCSK-164">
           <mxGeometry x="10" y="240" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-188" value="大货商央API (8081)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-187">
+        <mxCell id="pbacP5-wRvRaZsXroCSK-188" value="儿童商央API (8081)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-187">
           <mxGeometry width="140" height="70" as="geometry">
             <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-189" value="APP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-187">
-          <mxGeometry y="18.666666666666664" width="140" height="51.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-190" value="" style="group" vertex="1" connectable="0" parent="pbacP5-wRvRaZsXroCSK-164">
-          <mxGeometry x="180" y="240" width="140" height="70" as="geometry" />
+          <mxGeometry x="170" y="240" width="140" height="74.32999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-191" value="潮牌商央API (8081)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-190">
+        <mxCell id="pbacP5-wRvRaZsXroCSK-191" value="儿童业务中台 (8082)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-190">
+          <mxGeometry width="140" height="74.32999999999998" as="geometry">
+            <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-192" value="APP&lt;br&gt;kids-fair.fila.cn/crane-api" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-191">
+          <mxGeometry y="22.996666666666663" width="140" height="51.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-209" value="" style="group" vertex="1" connectable="0" parent="pbacP5-wRvRaZsXroCSK-164">
+          <mxGeometry x="490" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-210" value="儿童业务中台 (9082)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-209">
           <mxGeometry width="140" height="70" as="geometry">
             <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-192" value="APP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-190">
-          <mxGeometry y="18.666666666666664" width="140" height="51.33333333333333" as="geometry" />
-        </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-193" value="" style="group" vertex="1" connectable="0" parent="pbacP5-wRvRaZsXroCSK-164">
-          <mxGeometry x="350" y="240" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-194" value="儿童商央API (8081)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-193">
-          <mxGeometry width="140" height="70" as="geometry">
-            <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
+        <mxCell id="pbacP5-wRvRaZsXroCSK-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pbacP5-wRvRaZsXroCSK-164" source="pbacP5-wRvRaZsXroCSK-169" target="pbacP5-wRvRaZsXroCSK-188">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="45" y="210" />
+              <mxPoint x="45" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-195" value="APP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-193">
-          <mxGeometry y="18.666666666666664" width="140" height="51.33333333333333" as="geometry" />
+        <mxCell id="pbacP5-wRvRaZsXroCSK-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pbacP5-wRvRaZsXroCSK-164" source="pbacP5-wRvRaZsXroCSK-169" target="pbacP5-wRvRaZsXroCSK-191">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="210" />
+              <mxPoint x="240" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="pbacP5-wRvRaZsXroCSK-164" source="pbacP5-wRvRaZsXroCSK-169" target="pbacP5-wRvRaZsXroCSK-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="170" />
+              <mxPoint x="560" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-208" value="APP&lt;br&gt;fad-fair.fila.cn/api" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-164">
+          <mxGeometry x="330" y="263" width="140" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-211" value="APP&lt;br&gt;fad-fair.fila.cn/crane-api" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-164">
+          <mxGeometry x="490" y="263" width="140" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-189" value="APP&lt;br&gt;kids-fair.fila.cn/api" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-164">
+          <mxGeometry x="10" y="263" width="140" height="47" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-196" value="&lt;br&gt;&lt;br&gt;VPC 华为云私有网络" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#00CC00;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="-380" y="185" width="1540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-206" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-50" y="860" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-207" value="潮牌商央API (9081)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-206">
+          <mxGeometry width="140" height="70" as="geometry">
+            <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.561;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="pbacP5-wRvRaZsXroCSK-169" target="pbacP5-wRvRaZsXroCSK-207">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-265" y="810" />
+              <mxPoint x="29" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
