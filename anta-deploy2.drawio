@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T15:30:40.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="9Qvg-WGAsqpo-7Yd3ys1" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T15:32:08.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="HzbrkUBQoo-EBsK-rXDW" version="16.4.5" type="github">
   <diagram id="hieO9g39WpFTUk1VyaVL" name="Page-1">
     <mxGraphModel dx="2068" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
             <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-20" value="&amp;nbsp;代理 web 服务（商央前端、任务中心前端、订货会4.0前端）;&lt;br&gt;反向代理服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-18">
+        <mxCell id="pbacP5-wRvRaZsXroCSK-20" value="&amp;nbsp;代理 web 服务&lt;br&gt;反向代理服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-18">
           <mxGeometry y="23.902439024390244" width="140" height="65.73170731707319" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.137;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1A1A1A;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="pbacP5-wRvRaZsXroCSK-9" target="pbacP5-wRvRaZsXroCSK-47">
@@ -362,7 +362,7 @@
             <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-373" value="&amp;nbsp;代理 web 服务（商央前端、任务中心前端、订货会4.0前端）;&lt;br&gt;反向代理服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-371">
+        <mxCell id="pbacP5-wRvRaZsXroCSK-373" value="&amp;nbsp;代理 web 服务&lt;br&gt;反向代理服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-371">
           <mxGeometry y="23.902439024390244" width="140" height="65.73170731707319" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-374" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.137;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1A1A1A;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="pbacP5-wRvRaZsXroCSK-368" target="pbacP5-wRvRaZsXroCSK-376">
@@ -670,7 +670,7 @@
           <mxGeometry x="1180" y="770" width="360" height="790" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-471" value="IBI报表" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1207" y="440" width="67" height="52.26" as="geometry" />
+          <mxGeometry x="1233.5" y="600" width="67" height="52.26" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-472" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#1A1A1A;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -680,6 +680,25 @@
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-474" value="scheam：flia_adult" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1230" y="970" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-478" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1197" y="429.9980487804878" width="140" height="89.6341463414634" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-479" value="Nginx（80）" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-478">
+          <mxGeometry width="140" height="89.6341463414634" as="geometry">
+            <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-480" value="&amp;nbsp;代理 web 服务&lt;br&gt;反向代理服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-478">
+          <mxGeometry y="23.902439024390244" width="140" height="65.73170731707319" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-482" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="pbacP5-wRvRaZsXroCSK-480" target="pbacP5-wRvRaZsXroCSK-471">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbacP5-wRvRaZsXroCSK-483" value="ibi-lifecycle.fila.cn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#1A1A1A;" vertex="1" connectable="0" parent="pbacP5-wRvRaZsXroCSK-482">
+          <mxGeometry x="-0.1572" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
