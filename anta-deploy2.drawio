@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T15:04:54.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="02CfklXrT5cWv7hd6vbA" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T15:10:04.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ICamphORK4IHs-W-j5py" version="16.4.5" type="github">
   <diagram id="hieO9g39WpFTUk1VyaVL" name="Page-1">
-    <mxGraphModel dx="2197" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,7 +459,7 @@
         <mxCell id="pbacP5-wRvRaZsXroCSK-284" value="" style="group" vertex="1" connectable="0" parent="pbacP5-wRvRaZsXroCSK-270">
           <mxGeometry x="230" y="204.88" width="190" height="65.12" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-285" value="大货业务中台 (8082)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-284">
+        <mxCell id="pbacP5-wRvRaZsXroCSK-285" value="订单管理业务中台 (8082)" style="swimlane;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-284">
           <mxGeometry width="190" height="65.12" as="geometry">
             <mxRectangle x="10" y="40" width="70" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -475,8 +475,8 @@
         <mxCell id="pbacP5-wRvRaZsXroCSK-288" value="APP&lt;br&gt;om-lifecycle.fila.cn/api" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;horizontal=1;spacingTop=0;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-270">
           <mxGeometry x="10" y="230.0030081300813" width="140" height="43.821138211382106" as="geometry" />
         </mxCell>
-        <mxCell id="pbacP5-wRvRaZsXroCSK-295" value="商央前端(om-lifecycle.fila.cn/center)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-270">
-          <mxGeometry x="320" y="43.95" width="280" height="17" as="geometry" />
+        <mxCell id="pbacP5-wRvRaZsXroCSK-295" value="&lt;span style=&quot;background-color: rgb(230 , 208 , 222)&quot;&gt;商央前端(om-lifecycle.fila.cn/center)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-270">
+          <mxGeometry x="320" y="43.95" width="290" height="17" as="geometry" />
         </mxCell>
         <mxCell id="pbacP5-wRvRaZsXroCSK-296" value="订单管理前端(om-lifecycle.fila.cn/)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="pbacP5-wRvRaZsXroCSK-270">
           <mxGeometry x="320" y="67.95000000000005" width="300" height="17" as="geometry" />
