@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T02:35:49.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="G6SrKK7vlE-PmfW7Xlyk" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T02:37:46.661Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="mZI6M5nLUzBp0DwexL7-" version="16.4.6" type="github">
   <diagram id="hieO9g39WpFTUk1VyaVL" name="Page-1">
     <mxGraphModel dx="1773" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -768,7 +768,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m5HKOGTi-7YXOkIU_3ks-1" value="&lt;font color=&quot;#1a1a1a&quot;&gt;华为云分布式服务&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#B3FF66;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1320" width="360" height="220" as="geometry" />
+          <mxGeometry x="1180" y="1320" width="360" height="500" as="geometry" />
         </mxCell>
         <mxCell id="m5HKOGTi-7YXOkIU_3ks-2" value="LTS日志服务" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_blank;labelBackgroundColor=none;fontSize=14;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="1206.86" y="1390" width="58.14" height="50" as="geometry" />
@@ -802,6 +802,15 @@
         </mxCell>
         <mxCell id="m5HKOGTi-7YXOkIU_3ks-22" value="HD-rabbitmq" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;glass=1;" vertex="1" parent="1">
           <mxGeometry x="393" y="1713.87" width="41.3" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="m5HKOGTi-7YXOkIU_3ks-25" value="CBR备份服务" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_blank;labelBackgroundColor=none;fontSize=14;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="1704" width="58.14" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m5HKOGTi-7YXOkIU_3ks-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#1A1A1A;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="1742.87" as="sourcePoint" />
+            <mxPoint x="1070" y="1742.87" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
