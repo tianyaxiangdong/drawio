@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T02:48:57.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="-4PfaRB2bk9DsE0NE2Af" type="github"><diagram id="ZTQO5bCfO-_qCLNcF21Q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-27T03:10:54.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="x1pfKL7bvrRqYZ-1hXE1" version="20.0.3" type="github">
+  <diagram id="ZTQO5bCfO-_qCLNcF21Q" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jR1Bu-kG2_HgKo69JoBK-2" value="微信消息" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1Bu-kG2_HgKo69JoBK-3" value="模板管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1Bu-kG2_HgKo69JoBK-4" value="消息日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1Bu-kG2_HgKo69JoBK-5" value="消息发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1Bu-kG2_HgKo69JoBK-6" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1Bu-kG2_HgKo69JoBK-23" value="消息收取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
