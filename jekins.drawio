@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T07:33:59.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="udhj5RAFACNLu-MnMQFW" type="github"><diagram id="FpJAE9GAdhs6hHB_tla5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-06T10:32:55.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jFndCvrqOIl1z8UQtFbN" version="20.0.4" type="github">
+  <diagram id="FpJAE9GAdhs6hHB_tla5" name="Page-1">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvJLKgQ-Zhxp-a8D55nZ-1" target="QvJLKgQ-Zhxp-a8D55nZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-1" value="实施" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvJLKgQ-Zhxp-a8D55nZ-3" target="QvJLKgQ-Zhxp-a8D55nZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-3" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QvJLKgQ-Zhxp-a8D55nZ-4" target="QvJLKgQ-Zhxp-a8D55nZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-4" value="提出需求" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QvJLKgQ-Zhxp-a8D55nZ-7" target="QvJLKgQ-Zhxp-a8D55nZ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-7" value="需求分析/确认" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="390" y="175" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-10" value="准备环境" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="175" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QvJLKgQ-Zhxp-a8D55nZ-15" target="QvJLKgQ-Zhxp-a8D55nZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-15" value="选取版本&lt;br&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QvJLKgQ-Zhxp-a8D55nZ-17" target="QvJLKgQ-Zhxp-a8D55nZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-17" value="参数配置" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QvJLKgQ-Zhxp-a8D55nZ-20" target="QvJLKgQ-Zhxp-a8D55nZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-20" value="初始化环境" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-21" value="完成" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="580" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-25" value="&lt;h1&gt;选取版本&lt;/h1&gt;&lt;p&gt;原有客户，应该是直接将之前做好的一个jenkins任务激活，环境就会自动准备好&lt;/p&gt;&lt;p&gt;新客户，选择使用某一个做好的工程（标准产品工程、产品历史TAG工程、某客户工程）&lt;/p&gt;&lt;p&gt;或者从头全新&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="520" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-26" value="&lt;h1&gt;参数配置&lt;/h1&gt;&lt;p&gt;一般来说仅需要 提供项目名称，如 pvh&lt;/p&gt;&lt;p&gt;预计可能还有脚本编号，比如flywaydb里面维护的版本号，git 项目分支号、提交号&lt;/p&gt;&lt;p&gt;目的就是为了，第三步初始化。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="520" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QvJLKgQ-Zhxp-a8D55nZ-27" value="&lt;h1&gt;初始化环境&lt;/h1&gt;&lt;p&gt;得到配置参数后，要启动环境了。此时有&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="620" width="520" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
