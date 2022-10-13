@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T07:59:54.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ua6vz1nvT944RL6px_nR" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T08:02:23.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YCMPqVLvNhDduREDIs0y" version="20.4.0" type="github">
   <diagram id="aitsbQrs374O7kZ5YF0x" name="第 1 页">
     <mxGraphModel dx="2408" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,19 +29,19 @@
           <mxGeometry x="60" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-44" value="工作流引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="193" y="660" width="110" height="50" as="geometry" />
+          <mxGeometry x="190" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-45" value="配置中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="660" width="110" height="50" as="geometry" />
+          <mxGeometry x="330" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-46" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="458" y="660" width="110" height="50" as="geometry" />
+          <mxGeometry x="460" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-47" value="主数据管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="846" y="660" width="130" height="50" as="geometry" />
+          <mxGeometry x="850" y="660" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-48" value="任务管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="591" y="660" width="110" height="50" as="geometry" />
+          <mxGeometry x="590" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-49" value="订单中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#54DE54;strokeColor=#005700;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="-80" y="290" width="100" height="180" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="-170" y="200" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-76" value="消息中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="723" y="660" width="110" height="50" as="geometry" />
+          <mxGeometry x="720" y="660" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
