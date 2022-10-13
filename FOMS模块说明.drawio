@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T07:46:52.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WxK4sfAa5t5datlTHc5v" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T07:47:14.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XI1kPbZeSYEWr2_L9fZY" version="20.4.0" type="github">
   <diagram id="aitsbQrs374O7kZ5YF0x" name="第 1 页">
     <mxGraphModel dx="2013" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="-170" y="640" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="1070" height="80" as="geometry" />
+          <mxGeometry x="40" y="190" width="870" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-39" value="商品智能化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="205" width="140" height="50" as="geometry" />
