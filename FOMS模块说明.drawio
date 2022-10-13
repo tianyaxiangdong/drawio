@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T07:59:13.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="sjKuwU4h6EFvvxoXN7q3" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T07:59:27.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9RnwVH2iWk6kaApXQgBX" version="20.4.0" type="github">
   <diagram id="aitsbQrs374O7kZ5YF0x" name="第 1 页">
     <mxGraphModel dx="2408" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,13 +17,13 @@
           <mxGeometry x="26" y="200" width="970" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-39" value="商品智能化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="46" y="215" width="140" height="50" as="geometry" />
+          <mxGeometry x="60" y="215" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-40" value="SCM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="326" y="215" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-42" value="MDM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="606" y="215" width="140" height="50" as="geometry" />
+          <mxGeometry x="600" y="215" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-43" value="元数据管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="46" y="660" width="110" height="50" as="geometry" />
