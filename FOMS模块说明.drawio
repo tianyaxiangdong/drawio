@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T07:55:20.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YKI6-Kce5zY30qKm49Om" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T07:55:55.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uhGbF4sLqPJMnTggTXDi" version="20.4.0" type="github">
   <diagram id="aitsbQrs374O7kZ5YF0x" name="第 1 页">
     <mxGraphModel dx="2013" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,22 +77,22 @@
           <mxGeometry x="140" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-60" value="配货会数据同步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="55" y="495" width="145" height="50" as="geometry" />
+          <mxGeometry x="60" y="500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-61" value="OTB数据同步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="495" width="120" height="50" as="geometry" />
+          <mxGeometry x="280" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-62" value="销售曲线数据同步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="495" width="145" height="50" as="geometry" />
+          <mxGeometry x="460" y="500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-63" value="供应链数据同步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="595" y="495" width="145" height="50" as="geometry" />
+          <mxGeometry x="703" y="500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-64" value="订单数据导入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="55" y="565" width="145" height="50" as="geometry" />
+          <mxGeometry x="60" y="570" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-66" value="订单同步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="565" width="120" height="50" as="geometry" />
+          <mxGeometry x="280" y="570" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5dREuyog7Jw6wLklUPI1-67" value="计划单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="120" height="50" as="geometry" />
