@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T11:33:05.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="tvxUr2XeK2e0sWIOSoNd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T13:11:44.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BBWgzdI6udmZGvosBN4N" version="21.3.8" type="github">
   <diagram name="第 1 页" id="294Pn_cxht-LLnu045OC">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ahFmn5YmLQSmVznatvoE-1" value="品牌方用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-860" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-2" value="贯信运维" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1060" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-3" value="xxx.cn/leap-ops" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1090" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-4" value="服务监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-3">
+          <mxGeometry x="290" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-5" value="运维工具&lt;br&gt;（备份、检测、安装...）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-3">
+          <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-6" value="系统管理&lt;br&gt;(模块管理、系统参数、产品证书...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-3">
+          <mxGeometry x="20" y="100" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-7" value="数据初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-3">
+          <mxGeometry x="180" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-8" value="xxx.cn" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-894" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-9" value="服务监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-8">
+          <mxGeometry x="310" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-10" value="品牌门户&lt;br&gt;(公告、宣传、报表、系统入口)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-8">
+          <mxGeometry x="20" y="40" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-11" value="业务配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-8">
+          <mxGeometry x="20" y="94" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-12" value="工作清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-8">
+          <mxGeometry x="110" y="94" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-13" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-8">
+          <mxGeometry x="340" y="94" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-14" value="数据维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-8">
+          <mxGeometry x="190" y="94" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-15" value="经销商用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-656" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-16" value="xxx.cn" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-690" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-17" value="品牌门户&lt;br&gt;(公告、宣传、报表、系统入口)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-16">
+          <mxGeometry x="20" y="40" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-18" value="工作清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-16">
+          <mxGeometry x="270" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-19" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-16">
+          <mxGeometry x="340" y="94" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-20" value="经销商门户&lt;br&gt;（库存、物流、订单、退货、订货会、B2B）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-16">
+          <mxGeometry x="20" y="94" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-21" value="数据维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ahFmn5YmLQSmVznatvoE-16">
+          <mxGeometry x="340" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-22" value="LEAP-Meta" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-1045" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-23" value="LEAP-Board" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-849" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-24" value="B2B" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-644" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-25" value="FAIR" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-644" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-26" value="LEAP-Meta" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-849" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-27" value="LEAP-Board" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-644" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-29" value="LEAP-Metrics" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-1050" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahFmn5YmLQSmVznatvoE-30" value="LEAP-Metrics" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-849" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
