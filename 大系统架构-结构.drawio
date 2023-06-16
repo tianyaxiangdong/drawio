@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T09:18:16.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kOpREiBrIUH4ahYJkkgG" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T09:21:45.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bBK0y8mfatoS633ZMJfh" version="21.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2608" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
         <mxCell id="B4go0ORNSefk7vjcMfsI-38" value="经销商 / 买手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1154.5" y="850" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4go0ORNSefk7vjcMfsI-41" value="菜单区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B4go0ORNSefk7vjcMfsI-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="882.5" width="140" height="357.5" as="geometry" />
         </mxCell>
         <mxCell id="B4go0ORNSefk7vjcMfsI-42" value="补货" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -505,6 +505,24 @@
         </mxCell>
         <mxCell id="B4go0ORNSefk7vjcMfsI-45" value="管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="337.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4go0ORNSefk7vjcMfsI-46" value="报表中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4go0ORNSefk7vjcMfsI-47" value="门店管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4go0ORNSefk7vjcMfsI-48" value="仓库盘点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4go0ORNSefk7vjcMfsI-49" value="订单追踪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4go0ORNSefk7vjcMfsI-50" value="商品管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B4go0ORNSefk7vjcMfsI-52" value="回到门户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="850" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
