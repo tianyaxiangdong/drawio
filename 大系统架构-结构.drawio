@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T09:22:48.007Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-eONj53zi6nUpWXdCUtl" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T09:23:12.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="e8Vc4wIBC9LzGZUgnOml" version="21.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2608" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -464,7 +464,7 @@
         <mxCell id="B4go0ORNSefk7vjcMfsI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="337.5" width="810" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="B4go0ORNSefk7vjcMfsI-26" value="经销商 / 买手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B4go0ORNSefk7vjcMfsI-26" value="经销商&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1154.5" y="337.5" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4go0ORNSefk7vjcMfsI-31" value="筛选区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -488,7 +488,7 @@
         <mxCell id="B4go0ORNSefk7vjcMfsI-37" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="850" width="810" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="B4go0ORNSefk7vjcMfsI-38" value="经销商 / 买手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B4go0ORNSefk7vjcMfsI-38" value="经销商&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1154.5" y="850" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4go0ORNSefk7vjcMfsI-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
